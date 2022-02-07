@@ -13,7 +13,7 @@ namespace TrapezoidArea
             Console.Write("Insert h: ");
             var h = double.Parse(Console.ReadLine());
             var area = (b1 + b2) * h / 2;
-            Console.WriteLine("The area is: " + area + ".");
+            Console.WriteLine("The area is:  " + area + ".");
 
         }
     }

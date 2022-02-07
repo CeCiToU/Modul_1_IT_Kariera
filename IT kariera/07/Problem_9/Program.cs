@@ -18,7 +18,7 @@ namespace Kino_Price
             {
                 double premiere = 12.00;
                 double price = row * column * premiere;
-                Console.WriteLine(Math.Round(price,2) + " leva is your ticket's price.");
+                Console.WriteLine(Math.Round(price,2) + " leva is your ticket's price");
             }
             else if (TypeOfProjection == "normal")
             {

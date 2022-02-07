@@ -10,7 +10,7 @@ namespace Write_Numbers_1To10
             var num = int.Parse(Console.ReadLine());
             if (num == 1)
             {
-                Console.WriteLine("Written number is one");
+                Console.WriteLine("Written number is one.");
             }
             else if (num == 2)
             {

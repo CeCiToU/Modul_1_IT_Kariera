@@ -79,7 +79,7 @@ namespace Monthly_Price
                             var price = 76 - 76 * 01;
                             var priceht = night * price;
                             Console.WriteLine("Apartament: {0} lv.", priceht);
-                            Console.WriteLine("Studio: {0} lv.", pricest);
+                            Console.WriteLine("Studio: {0} lv", pricest);
                         }
                     }
                 }

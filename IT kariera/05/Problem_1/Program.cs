@@ -14,7 +14,7 @@ namespace Excellent_or_Not
             }
             else if (mark <= 5.49)
             {
-                Console.WriteLine("Not excellent.");
+                Console.WriteLine("Not excellent!");
             }
             else
             {
